@@ -5,6 +5,16 @@ This document is an exercise for [the GitHub doc](https://docs.github.com/en/git
 > 本仓库用来当作我个人的 markdown 语法参考，绝大部分内容都是 GitHub 官方文档的中文翻译。
 > 欢迎大家分享自己对 markdown 的理解，和大家一起学习！
 
+>相关文档：
+> - [添加附件](Attachment.md)
+> - [自动形成链接](Autolink.md)
+> - [代码块](<Code blocks.md>)
+> - [段落折叠](Collapsed.md)
+> - [关联 issue 和 pull request 的关键词](keywords.md)
+> - [关联 issue 和 pull request](<Link pull request and issue.md>)
+> - [指向代码的永久链接](<Permanent link.md>)
+> - [表格](Table.md)
+
 ## Headings
 
 最多可以加 6 个 # 在标题文本前。
